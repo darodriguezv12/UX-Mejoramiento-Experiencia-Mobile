@@ -1,0 +1,9 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="80"
+    android:viewportHeight="80">
+    <path
+        android:fillColor="#FF410002"
+        android:pathData="M24 60C22.9 60 21.96 59.61 21.18 58.83 20.39 58.04 20 57.1 20 56V32C20 30.9 20.39 29.96 21.18 29.18 21.96 28.39 22.9 28 24 28H32V24C32 22.9 32.39 21.96 33.17 21.18 33.96 20.39 34.9 20 36 20H44C45.1 20 46.04 20.39 46.83 21.18 47.61 21.96 48 22.9 48 24V28H56C57.1 28 58.04 28.39 58.83 29.18 59.61 29.96 60 30.9 60 32V56C60 57.1 59.61 58.04 58.83 58.83 58.04 59.61 57.1 60 56 60H24ZM24 56H56V32H24V56ZM36 28H44V24H36V28ZM24 56V32 56ZM38 46V52H42V46H48V42H42V36H38V42H32V46H38Z"/>
+</vector>
