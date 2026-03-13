@@ -1,3 +1,7 @@
+### DESCARGAR APK
+
+- Se encuentra en la parte de release el archivo .apk
+
 # Recordamed - Prototipo Android
 
 Prototipo visual navegable de la aplicación Recordamed, desarrollado en Android Studio con Kotlin. No contiene lógica ni backend.
@@ -16,3 +20,5 @@ Prototipo visual navegable de la aplicación Recordamed, desarrollado en Android
 ### Simular alarma
 
 - Use el botón de  **Simular alarma** para simular que una alarma comienza a sonar.
+
+
