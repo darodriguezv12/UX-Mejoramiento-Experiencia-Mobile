@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="90dp"
+    android:height="90dp"
+    android:viewportWidth="90"
+    android:viewportHeight="90">
+    <path
+        android:fillColor="#FF6B7280"
+        android:pathData="M5 41c0-22.09 17.91-40 40-40h0c22.09 0 40 17.91 40 40v0c0 22.09-17.91 40-40 40h0c-22.09 0-40-17.91-40-40z"/>
+    <group>
+        <path
+            android:fillColor="#03000000"
+            android:pathData="M5 41c0-22.09 17.91-40 40-40h0c22.09 0 40 17.91 40 40v0c0 22.09-17.91 40-40 40h0c-22.09 0-40-17.91-40-40z"/>
+    </group>
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M34.5 42.5V39.5H55.5V42.5H34.5Z"/>
+</vector>
